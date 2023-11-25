@@ -15,6 +15,7 @@ Flight: 1, departure: YUL, arrival: YYZ, day: 1
 ...
 Flight: 6, departure: <departure_city>, arrival: <arrival_city>, day: x
 ```
+![list-schedules-cmd](https://github.com/Kosat/SpeedyAir/assets/153023/962ffa24-310d-4fea-8d21-befc4765188a)
 
 ## USER STORY #2
 As an inventory management user, I can generate flight itineraries by scheduling a batch of orders. These flights
@@ -31,3 +32,6 @@ if an order has not yet been scheduled, output:
 ```
 order: order-X, flightNumber: not scheduled
 ```
+
+
+
