@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SpeedyAir.Cli.Application -> List Flights": {
+      "commandName": "Project",
+      "commandLineArgs": "list-schedules --input-file=..\\..\\..\\..\\assets\\coding-assigment-flight-schedule.json"
+    },
+    "SpeedyAir.Cli.Application -> Generate Itineraries": {
+      "commandName": "Project",
+      "commandLineArgs": "generate-itineraries --schedule-file=..\\..\\..\\..\\assets\\coding-assigment-flight-schedule.json --orders-file=..\\..\\..\\..\\assets\\coding-assigment-orders.json"
+    }
+  }
+}

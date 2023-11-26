@@ -1,0 +1,38 @@
+[
+    {
+      "day": 1,
+      "flight": 1,
+      "departure": "YUL",
+      "arrival": "YYZ"
+    },
+    {
+      "day": 1,
+      "flight": 2,
+      "departure": "YUL",
+      "arrival": "YYC"
+    },
+    {
+      "day": 1,
+      "flight": 3,
+      "departure": "YUL",
+      "arrival": "YVR"
+    },
+    {
+      "day": 2,
+      "flight": 4,
+      "departure": "YUL",
+      "arrival": "YYZ"
+    },
+    {
+      "day": 2,
+      "flight": 5,
+      "departure": "YUL",
+      "arrival": "YYC"
+    },
+    {
+      "day": 2,
+      "flight": 6,
+      "departure": "YUL",
+      "arrival": "YVR"
+    }
+]
