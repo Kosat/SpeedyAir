@@ -32,6 +32,7 @@ if an order has not yet been scheduled, output:
 ```
 order: order-X, flightNumber: not scheduled
 ```
+![generate-itineraries-cmd](https://github.com/Kosat/SpeedyAir/assets/153023/eb2dfe80-64ac-4c8e-87cb-56e4250b7014)
 
-
-
+## Unit tests
+![image](https://github.com/Kosat/SpeedyAir/assets/153023/8f1a8b10-ff95-43e2-967f-8471b81e5561)
